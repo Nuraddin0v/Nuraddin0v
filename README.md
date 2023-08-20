@@ -1,6 +1,6 @@
 <h1 align="center">Salom 👋, men Nuraddin0v Abdu1hamid</h1>
 <h3 align="center">O‘zbekistonlik ishtiyoqli frontend dasturchisi</h3>
-<img align="center" alt="Coding" width="100%" src="https://remotetalent.co/wp-content/uploads/2016/02/N%C3%A9vtelen.jpg"/>
+<img alt="Coding" width="100%" src="https://remotetalent.co/wp-content/uploads/2016/02/N%C3%A9vtelen.jpg"/>
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=nuraddin0v&label=Profile%20views&color=0e75b6&style=flat" alt="nuraddin0v" /> </p>
 
 - 🔭 Men hozirda [Mening portfelim] ustida ishlayapman(https: //nuraddinov-abdulhamid-portfolio.vercel.app/)
